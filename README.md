@@ -1,6 +1,9 @@
 JSR 354: Money and Currency: Moneta Reference Implementation
 ===========================================================
 
+The badges below refer to
+[upstream Moneta](https://github.com/JavaMoney/jsr354-ri).
+
 [![Maven Central](https://img.shields.io/maven-central/v/org.javamoney/moneta.svg)](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.javamoney%22%20AND%20a%3A%22moneta%22)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/JavaMoney/jsr354-ri/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/JavaMoney/jsr354-ri/tree/master)
 [![Coverage Status](https://coveralls.io/repos/JavaMoney/jsr354-ri/badge.svg?branch=master)](https://coveralls.io/r/JavaMoney/jsr354-ri?branch=master)
